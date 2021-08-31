@@ -28,4 +28,3 @@ echo "CONFIG_NF_CT_NETLINK=y" >> target/linux/ramips/mt7620/config-5.4
 echo "CONFIG_NF_DEFRAG_IPV4=y" >> target/linux/ramips/mt7620/config-5.4
 echo "CONFIG_NF_REJECT_IPV4=m" >> target/linux/ramips/mt7620/config-5.4
 echo "CONFIG_NF_TABLES=y" >> target/linux/ramips/mt7620/config-5.4
-© 2021 GitHub, Inc.
