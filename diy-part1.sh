@@ -2,6 +2,7 @@
 
 # 添加UA2F
 git clone https://github.com/Zxilly/UA2F.git package/UA2F
+git clone https://github.com/CHN-beta/rkp-ipid package/rkp-ipid
 
 # 更新queue
 git clone https://github.com/openwrt/packages
