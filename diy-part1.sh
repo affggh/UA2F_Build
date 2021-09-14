@@ -4,6 +4,7 @@
 git clone https://github.com/Zxilly/UA2F package/UA2F
 cd package/UA2F
 git checkout 20210531T234622
+cd ../..
 # 更新queue
 git clone https://github.com/openwrt/packages
 rm -rf package/libs/libnetfilter-queue
